@@ -1,2 +1,2 @@
-# Netflix_clone
-Netflix Clone using HTML and CSS fully responsive design
+# Netflix-Clone
+Simple but very responsive Netflix clone using HTML and CSS 
